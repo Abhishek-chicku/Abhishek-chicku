@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-chicku" alt="abhishek-chicku" /></a> </p>
 
-- 🔭 I’m currently working on **VibeCall**
+- 🔭 I’m currently working on **ML Model**
 
 - 🌱 I’m currently learning **Flask**
 
