@@ -39,8 +39,7 @@ const me = new Developer();
 console.log(me.info());
 ```
 
-## ⚒️ Tech Stack  
-
+## 🚀 Tech Armory
 <p align="center">
   
 **Languages:**  
