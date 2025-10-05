@@ -1,9 +1,18 @@
+
 <div align="center">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=CC33FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abhishek+Kumar;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;BCA+Student" alt="Typing SVG" />
+  <p align="center" style="
+    text-shadow: 0 0 10px #cc33ff, 0 0 20px #7f00ff, 0 0 30px #ff00ff;
+  ">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=CC33FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abhishek+Kumar;Aspiring+Full+Stack+Developer;AI+%26+ML+Enthusiast;BCA+Student" 
+      alt="Typing SVG" 
+    />
+  </p>
+</div>
+
 </p>
 
-[![Email](https://img.shields.io/badge/Email-as340490@gmail.com@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
+[![Email](https://img.shields.io/badge/Email-as340490@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-907710319/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)](https://my-portfolio-pfym.vercel.app/)
 </div>
