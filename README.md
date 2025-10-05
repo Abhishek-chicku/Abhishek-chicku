@@ -86,7 +86,7 @@ console.log(me.info());
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
 | **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🌐](https://zerodha-frontend-h69v.vercel.app) |
-| **Video Streaming Platform** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐](https://vibecallfrontend2.onrender.com/) |
+| **VibeCall** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐](https://vibecallfrontend2.onrender.com/) |
 | **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, SVM , Pandas, Flask | [GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
 
 
