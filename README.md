@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5533&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abhishek+Kumar;Aspiring+Full+Stack+Developer+;AI+%26+ML+Enthusiast;BCA+Student" alt="Typing SVG" />
 </p>
 
-[![Email](https://img.shields.io/badge/Email-theujjwalsinghh@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
+[![Email](https://img.shields.io/badge/Email-as340490@gmail.com@gmail.com-8B89CC?style=flat-square&logo=gmail)](mailto:as340490@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhishek-kumar-907710319/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)](https://my-portfolio-pfym.vercel.app/)
 </div>
@@ -70,13 +70,14 @@ console.log(me.toString());
 ## 📊 GitHub Stats  
 ## 🚀 My Projects  
 
-<div align="center">
+<div align="center mt-3">
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
-| **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🔗 GitHub](https://github.com/Abhishek-chicku/Zerodha-Clone) · [🌐 Live Demo](https://zerodha-frontend-h69v.vercel.app) |
+| **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🌐 Live Demo](https://zerodha-frontend-h69v.vercel.app) |
+| **Video Streaming Platform** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐 Live Demo](https://video-streaming-platform.vercel.app) |
 | **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, Sklearn, Pandas, Flask | [🔗 GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
-| **Portfolio Website** | My personal animated portfolio with 3D effects, solar system theme, and custom cursor. | HTML, CSS, JavaScript | [🌐 Visit](https://my-portfolio-pfym.vercel.app/) |
+
 
 </div>
 
