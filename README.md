@@ -77,7 +77,8 @@ console.log(me.info());
 </p>
 
 ---
-## 📊 GitHub Stats  
+## 🛠 Developer Statistics
+
 ## 🚀 My Projects  
 
 <div align="center mt-3">
@@ -86,7 +87,7 @@ console.log(me.info());
 |----------|--------------|-------------|--------|
 | **Zerodha Clone** | A full-featured trading platform clone built using the MERN stack with live charts (Chart.js). | React, Node.js, Express, MongoDB, Chart.js | [🌐 Live Demo](https://zerodha-frontend-h69v.vercel.app) |
 | **Video Streaming Platform** | A full-stack video hosting and streaming platform with authentication, upload, and playback features. | React, Node.js, Express, MongoDB, Cloudinary | [🌐 Live Demo](https://video-streaming-platform.vercel.app) |
-| **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, SVM , Pandas, Flask | [🔗 GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
+| **Fake Review Detection ML Model** | Machine learning model to detect fake product reviews using NLP techniques. | Python, SVM , Pandas, Flask | [GitHub](https://github.com/Abhishek-chicku/ML-Model-Fake-Review-Detection) |
 
 
 </div>
