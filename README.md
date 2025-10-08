@@ -15,7 +15,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=flat-square&logo=firefox)](https://my-portfolio-pfym.vercel.app/)
 </div>
 
-## 🧑‍💻 About Me
+## 🧩 Pieces of My Dev Puzzle
 
 ```javascript
 class Developer {
