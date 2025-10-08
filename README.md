@@ -80,7 +80,7 @@ console.log(me.info());
 
 ## 🚀 My Projects  
 
-<div align="center mt-3">
+<div align="center mt-3 mb-5">
 
 | Project | Description | Tech Stack | Links |
 |----------|--------------|-------------|--------|
@@ -94,7 +94,7 @@ console.log(me.info());
 
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="display: flex; flex-direction: column; gap: 20px;">
+    <div style="display: flex; flex-direction: column; gap: 30px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-chicku&theme=dark&hide_border=false&layout=compact" style="height: 200px;" />
       <img src="https://nirzak-streak-stats.vercel.app/?user=Abhishek-chicku&theme=dark&hide_border=false" style="height: 200px;" />
     </div>
