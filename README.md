@@ -22,7 +22,7 @@ class Developer {
   constructor() {
     this.name = "Abhishek Kumar";
     this.role = "Aspiring Full-Stack Developer";
-    this.education = "Final Year BCA Student";
+    this.education = "Final Year B.tech Student";
     this.interests = ["Full-Stack Development", "AI/ML", "DSA"];
     this.passion = "Solving real-world problems with technology";
   }
